@@ -26,7 +26,7 @@ The project will be conducted to demonstrate the skills required to perform data
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset contains information related to **bank loan applications and repayments**. Key fields include:
 
@@ -38,7 +38,7 @@ The dataset contains information related to **bank loan applications and repayme
 
 ---
 
-## 🔍 Project Workflow
+## Project Workflow
 
 ### 1. Data Loading & Preparation
 
