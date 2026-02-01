@@ -1,12 +1,12 @@
 # Bank_Loan_Analysis
 Data analytics project showcasing bank loan analysis using excel.
-# Bank Loan Data Analysis – Excel Dashboard Project
+# Bank Loan Analysis – Excel Dashboard Project
 
 ## Project Overview
 
-This project focuses on analyzing the **bank loan data** using **Microsoft Excel** to understand trends, assess loan performance, and differentiation between good and bad loans. The analysis follows a complete data analytics workflow from raw data exploration to an interactive dashboard.
+This project aims to perform an analysis on **bank loan data** using **Microsoft Excel** to understand the trends in the loan data and differentiate between good and bad loans. The analysis follows a complete data analytics workflow from raw data exploration to an interactive dashboard.
 
-The project will be conducted to exhibit the skills required for performing data analytics using **Excel data analytics skills** for the banking industry 
+The project will be conducted to demonstrate the skills required to perform data analytics using **Excel data analytics skills** for the banking industry 
 
 ---
 
